@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Hamed</h1>
-<h3 align="center">Mastering the Art of Full Stack Development: Pioneering Innovative Solutions from Syria's Heart, One Line of Code at a Time</h3>
+<h3 align="center">Dedicated developer passionate about crafting innovative solutions and delivering high-quality code for seamless user experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alihamed195&label=Profile%20views&color=0e75b6&style=flat" alt="alihamed195" /> </p>
 
